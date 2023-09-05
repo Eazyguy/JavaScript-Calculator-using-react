@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  overflow:hidden;
+}
+
+tr td{
+  margin: 20px !important;
+}
+
+.table-number{
+  background-color: #373B3E !important;
+}
+
+.table-number:hover{
+  background-color: #747270 !important;
+}
+
+.table-secondary:hover{
+  background-color: #747270 !important;
+}
+.bg-danger:hover{
+  opacity:0.7;
+}
+.table-primary:hover{
+  background-color: #80B2FF !important;
+}
+
+.table-danger:hover{
+  background-color: #F8A5AD !important;
+}
+
+#module:hover{
+  background-color: #747270;
+}
+
